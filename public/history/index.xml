@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Features on Net Neutrality </title>
-    <link>https://examplesite.com/history/</link>
+    <link>/history/</link>
     <description>Recent content in Features on Net Neutrality </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/history/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/history/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
