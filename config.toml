@@ -4,9 +4,9 @@ baseURL = "https://examplesite.com/"
 # theme
 theme = "dot"
 # site title
-title = "Dot"
+title = "Net Neutrality "
 # disable language
-disableLanguages = []
+disableLanguages = ["Fr"]
 # google analytics
 googleAnalytics = "" # paste your analytics ID here. Ex: UA-123-45
 
@@ -16,38 +16,35 @@ unsafe= true
 
 ################################# navigation ################################
 [[menu.main]]
-name = "Faq"
+name = "FAQ"
 url = "faq"
 weight = 1
-
-[[menu.main]]
-name = "contact"
-url = "contact"
-weight = 2
 
 # Dropdown menu
 [[menu.main]]
 weight = 3
-name = "docs"
+name = "Info"
 hasChildren = true
 
   [[menu.main]]
-  parent = "docs"
-  name = "Installation"
-  url = "installation"
+  parent = "Info"
+  name = "What is It?"
+  url = "WhatIsIt"
   weight = 1
 
   [[menu.main]]
-  parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
+  parent = "Info"
+  name = "Effects"
+  url = "Effects"
   weight = 2
 
   [[menu.main]]
-  parent = "docs"
-  name = "Features"
-  url = "features"
+  parent = "Info"
+  name = "History"
+  url = "History"
   weight = 3
+
+
 
 
 ############################# Default Parameters ##########################
@@ -100,9 +97,9 @@ copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugo
 
 # banner
 [Languages.en.params.banner]
-title = "Support Center & Knowledge base"
-subtitle = "Find advice and answers from our support team fast or get in touch"
-bg_image = "images/banner.jpg"
+title = "Untangling Net Neutrality"
+subtitle = "Find out what is Net Neutrality and its impact"
+bg_image = "images/internet-banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 
 # call to action
