@@ -24,6 +24,37 @@
 
   {{ if .Site.Params.cta.enable }}
   {{ with .Site.Params.cta }}
+
+  {{ "<!-- contact -->" | safeHTML }}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="section-title text-primary">{{ .Title }}</h2>
+          {{ .Content }}
+          <form
+            action="https://formspree.io/xzbjpzbe"
+            method="POST"
+          >
+            <label>
+              Your email:
+              <input type="text" name="_replyto">
+            </label>
+            <label>
+              Your message:
+              <textarea name="message"></textarea>
+            </label>
+
+            <!-- your other form fields go here -->
+
+            <button type="submit">Send</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ "<!-- /contact -->" | safeHTML }}
+
   
   {{ end }}
   {{ end }}
