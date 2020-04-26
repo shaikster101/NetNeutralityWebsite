@@ -1,1 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://examplesite.com/whatisit/ownership/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/history/linux/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/requirments/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/install/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/history/mac/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/whatisit/manage/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/configuration/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/whatisit/bill/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/history/routing/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/customization/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/whatisit/payment/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/history/ubuntu/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/elements/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/whatisit/profile/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/history/windows/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/effects/</loc><lastmod>2018-12-29T11:02:05+06:00</lastmod></url><url><loc>https://examplesite.com/</loc><lastmod>2020-01-05T10:42:26+06:00</lastmod></url><url><loc>https://examplesite.com/whatisit/</loc><lastmod>2018-12-28T11:02:05+06:00</lastmod></url><url><loc>https://examplesite.com/history/</loc><lastmod>2018-12-28T11:02:05+06:00</lastmod></url><url><loc>https://examplesite.com/categories/</loc></url><url><loc>https://examplesite.com/faq/</loc></url><url><loc>https://examplesite.com/contact/</loc></url><url><loc>https://examplesite.com/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/ownership/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/linux/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/requirments/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/install/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/mac/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/manage/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/configuration/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/bill/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/routing/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/customization/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/payment/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/ubuntu/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/elements/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/profile/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/windows/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/effects/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/whatisit/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/history/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+  </url>
+  
+</urlset>
