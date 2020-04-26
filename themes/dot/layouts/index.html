@@ -33,22 +33,14 @@
           <h2 class="section-title text-primary">{{ .Title }}</h2>
           {{ .Content }}
           <form
-            action="https://formspree.io/xzbjpzbe"
-            method="POST"
-          >
-            <label>
-              Your email:
-              <input type="text" name="_replyto">
-            </label>
-            <label>
-              Your message:
-              <textarea name="message"></textarea>
-            </label>
+          action="https://formspree.io/xzbjpzbe"
+          method="POST">
+            <textarea name="message" class="form-control mb-4 shadow rounded-0"></textarea>
 
-            <!-- your other form fields go here -->
+          <!-- your other form fields go here -->
 
-            <button type="submit">Send</button>
-          </form>
+          <button type="submit" class="btn btn-primary">Send</button>
+        </form>
         </div>
       </div>
     </div>
