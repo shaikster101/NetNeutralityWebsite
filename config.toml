@@ -29,19 +29,19 @@ hasChildren = true
   [[menu.main]]
   parent = "Info"
   name = "What is It?"
-  url = "WhatIsIt"
+  url = "whatisit"
   weight = 1
 
   [[menu.main]]
   parent = "Info"
   name = "Effects"
-  url = "Effects"
+  url = "effects"
   weight = 2
 
   [[menu.main]]
   parent = "Info"
   name = "History"
-  url = "History"
+  url = "history"
   weight = 3
 
 
