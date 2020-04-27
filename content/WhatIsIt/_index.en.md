@@ -1,6 +1,6 @@
 ---
-title: "Info"
-date: 2018-12-28T11:02:05+06:00
+title: "What is Net Neutrality?"
+date: 2020-04-26T11:02:05+06:00
 icon: "ti-notepad"
 description: "Learn About Net Neutrality"
 type : "docs"
