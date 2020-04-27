@@ -44,7 +44,10 @@ hasChildren = true
   url = "history"
   weight = 3
 
-
+[[menu.main]]
+name = "Tell Us Your Story"
+url = "contact"
+weight = 3
 
 
 ############################# Default Parameters ##########################
@@ -98,7 +101,7 @@ copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugo
 # banner
 [Languages.en.params.banner]
 title = "Untangling Net Neutrality"
-subtitle = "Find out what is Net Neutrality and its impact"
+subtitle = "Find out what Net Neutrality is and its impact"
 bg_image = "images/internet-banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 

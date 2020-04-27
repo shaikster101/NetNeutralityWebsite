@@ -14,4 +14,4 @@ Net neutrality is the notion that all data on the Internet should be treated equ
 Source: [https://wired.com/story/guide-net-neutrality](https://wired.com/story/guide-net-neutrality)
 
 
-![image](whatisnn.JPG "image")
+{{< youtube 6UgeCL41loY >}}
