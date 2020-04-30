@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 draft: false
+keywords: ["faq", "questions", "info", "quick", "frequently"]
 ---
 
 {{< faq "What is Net Neutrality?" >}}

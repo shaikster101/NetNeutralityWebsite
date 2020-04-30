@@ -15,39 +15,33 @@ googleAnalytics = "" # paste your analytics ID here. Ex: UA-123-45
 unsafe= true
 
 ################################# navigation ################################
+
+[[menu.main]]
+name = "What is It?"
+url = "whatisit"
+weight = 1
+
+
+[[menu.main]]
+name = "Effects"
+url = "effects"
+weight = 2
+
+
+[[menu.main]]
+name = "History"
+url = "history"
+weight = 3
+
 [[menu.main]]
 name = "FAQ"
 url = "faq"
-weight = 1
-
-# Dropdown menu
-[[menu.main]]
-weight = 3
-name = "Info"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Info"
-  name = "What is It?"
-  url = "whatisit"
-  weight = 1
-
-  [[menu.main]]
-  parent = "Info"
-  name = "Effects"
-  url = "effects"
-  weight = 2
-
-  [[menu.main]]
-  parent = "Info"
-  name = "History"
-  url = "history"
-  weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tell Us Your Story"
 url = "contact"
-weight = 3
+weight = 5
 
 
 ############################# Default Parameters ##########################
