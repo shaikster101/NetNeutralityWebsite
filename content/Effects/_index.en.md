@@ -70,4 +70,3 @@ However, There is a lot of content on the Internet that is heavily unused. This 
 [Source 1](https://knowledge.wharton.upenn.edu/article/net-neutrality-debate/)
 [Source 2](https://wired.com/story/guide-net-neutrality)
 
-{{< complainChart >}}
